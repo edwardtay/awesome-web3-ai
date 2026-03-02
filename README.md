@@ -1,5 +1,11 @@
 # Awesome Web3 x AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[![Stars](https://img.shields.io/github/actions/workflow/status/edwardtay/awesome-web3-ai/update-stars.yml?label=star%20updates)](https://github.com/edwardtay/awesome-web3-ai/actions/workflows/update-stars.yml)
+[![Links](https://img.shields.io/github/actions/workflow/status/edwardtay/awesome-web3-ai/links.yml?label=links)](https://github.com/edwardtay/awesome-web3-ai/actions/workflows/links.yml)
+[![Last Commit](https://img.shields.io/github/last-commit/edwardtay/awesome-web3-ai)](https://github.com/edwardtay/awesome-web3-ai/commits/main)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/edwardtay/awesome-web3-ai/pulls)
+[![License: CC0](https://img.shields.io/badge/License-CC0-lightgrey.svg)](LICENSE)
+
 > A curated list of Web3 x AI tools, agent frameworks, protocols, and infrastructure. 90+ projects across 10 categories.
 
 > ⚠️ = aging (6-12 months since last commit) — may still work but watch for staleness.
