@@ -153,6 +153,6 @@ The "coprocessor" approach — verifiable AI model execution on-chain.
 Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
 - Add tools you've actually used or evaluated
-- Include a concise description of what the tool does
-- Note if a project is unmaintained (last commit >1 year ago)
-- Commercial tools are fine but must be clearly labeled
+- Include star count and language where applicable
+- Note if a tool is unmaintained (last commit >1 year ago)
+- Commercial tools/services are fine but must be clearly labeled

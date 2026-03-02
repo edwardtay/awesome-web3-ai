@@ -8,7 +8,7 @@ Thanks for your interest in contributing!
 
 - **Actually useful**: Only add tools you've used or thoroughly evaluated.
 - **Format**: Follow the existing table format with tool name (linked), stars/token, and a concise description.
-- **Active**: Projects should have a commit within the last 12 months. If not, note it.
+- **Active**: Tools should have a commit within the last 12 months. If not, note it.
 - **No duplicates**: Check the list first.
 - **Right section**: Place the tool in the most relevant category.
 
@@ -27,6 +27,10 @@ Thanks for your interest in contributing!
 - Tokens/projects with no active GitHub repo or product
 - Personal scripts or one-off projects
 - Rug-pulled or abandoned projects
+
+### Moving tools to the Graveyard
+
+If a tool is unmaintained (no commits in 2+ years) or officially archived, submit a PR to move it to the Deprecated Tools Graveyard section with a recommended alternative.
 
 ## How to Submit
 
