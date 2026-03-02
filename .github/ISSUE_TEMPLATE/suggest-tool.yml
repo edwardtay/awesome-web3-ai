@@ -1,0 +1,43 @@
+name: Suggest a Tool
+description: Suggest a Web3 x AI tool to add to the list
+title: "[Suggest] "
+labels: ["suggestion"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Tool name
+      placeholder: e.g. Eliza
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: GitHub URL or website
+      placeholder: https://github.com/owner/repo
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - AI Agent Frameworks
+        - Agent Launchpads
+        - Decentralized Compute
+        - Decentralized AI Networks
+        - Data & Privacy Networks
+        - DeFi AI Tools
+        - On-Chain AI Inference
+        - On-Chain Infrastructure
+        - Analytics & Data
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Why should it be included?
+      placeholder: Brief description and why it's useful
+    validations:
+      required: true
