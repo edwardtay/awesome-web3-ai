@@ -37,6 +37,7 @@
 | [FetchAI uAgents](https://github.com/fetchai/uAgents) | 2k | Python | Lightweight autonomous agent framework by Fetch.ai. |
 | [AgentKit](https://github.com/coinbase/agentkit) | 1k | Python | Coinbase toolkit for on-chain AI agents. |
 | [GOAT](https://github.com/goat-sdk/goat) | 1k | TypeScript | Connect AI agents to any on-chain tool. |
+| [Hashgraph Online (HOL)](https://github.com/hashgraph-online) | 500 | TypeScript | Universal agent registry with UAIDs, trustless P2P comms, bridges to A2A and ERC-8004. 187K+ verified agents. |
 | [Heurist](https://github.com/heurist-network/heurist-agent-framework) | 800 | Python | Agent framework for AI model hosting and inference. |
 | [Daydreams](https://github.com/daydreamsai/daydreams) | 600 | TypeScript | Agent framework for on-chain games and autonomous worlds. |
 | [ZerePy](https://github.com/blorm-network/ZerePy) | 600 | Python | Python framework for deploying crypto AI agents. ⚠️ |
