@@ -104,6 +104,7 @@ Alternatives to centralized cloud for AI training and inference.
 | [Worldcoin](https://github.com/worldcoin) | $WLD | Proof-of-personhood for AI-era sybil resistance. |
 | [Covalent](https://github.com/covalenthq) | $CXT | Blockchain data API for AI agents. |
 | [Beldex](https://github.com/Beldex-Coin) | $BDX | Privacy ecosystem — AI chat and VPN. |
+| [ZKProofport](https://github.com/zkproofport) | — | Zero-knowledge proof generation for AI agent identity. Prove Coinbase KYC, Country, Google OIDC, Workspace, MS 365 affiliation without revealing personal data. AWS Nitro Enclave TEE proving on Base. ERC-8004 registered. Reference app [OpenStoa](https://github.com/zkproofport/openstoa) won 1st place at The Synthesis Hackathon (April 2026). |
 
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
 
