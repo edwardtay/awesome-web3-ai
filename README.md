@@ -135,6 +135,7 @@ The "coprocessor" approach — verifiable AI model execution on-chain.
 
 | Protocol | Token | Description |
 |----------|-------|-------------|
+| [TWZRD Agent Intel](https://intel.twzrd.xyz) | — | Solana-native x402 MCP for agent trust scoring. 4 free preflight tools score any Solana wallet; paid tools return signed `twzrd.receipt.v5` trust tokens via HTTP 402 + USDC (<1s). First Solana-native agent identity MCP. |
 | [The Graph](https://github.com/graphprotocol) | $GRT | Query any blockchain via GraphQL. |
 | [ArcBlock](https://github.com/ArcBlock) | $ABT | dApp platform with AI integration. |
 | [KIP Protocol](https://github.com/KIP-Protocol-Contracts) | $KIP | AI model ownership and monetization. |
