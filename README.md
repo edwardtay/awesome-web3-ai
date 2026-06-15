@@ -36,11 +36,11 @@
 | [Sendai](https://github.com/sendaifun/solana-agent-kit) | 2k | TypeScript | Solana-native agent toolkit. |
 | [FetchAI uAgents](https://github.com/fetchai/uAgents) | 2k | Python | Lightweight autonomous agent framework by Fetch.ai. |
 | [AgentKit](https://github.com/coinbase/agentkit) | 1k | Python | Coinbase toolkit for on-chain AI agents. |
-| [GOAT](https://github.com/goat-sdk/goat) | 995 | TypeScript | Connect AI agents to any on-chain tool. |
+| [GOAT](https://github.com/goat-sdk/goat) | 996 | TypeScript | Connect AI agents to any on-chain tool. |
 | [Heurist](https://github.com/heurist-network/heurist-agent-framework) | 817 | Python | Agent framework for AI model hosting and inference. |
-| [Daydreams](https://github.com/daydreamsai/daydreams) | 606 | TypeScript | Agent framework for on-chain games and autonomous worlds. |
+| [Daydreams](https://github.com/daydreamsai/daydreams) | 608 | TypeScript | Agent framework for on-chain games and autonomous worlds. |
 | [ZerePy](https://github.com/blorm-network/ZerePy) | 580 | Python | Python framework for deploying crypto AI agents. ⚠️ |
-| [Open Autonomy](https://github.com/valory-xyz/open-autonomy) | 122 | Python | Autonomous agent services framework (Autonolas). |
+| [Open Autonomy](https://github.com/valory-xyz/open-autonomy) | 123 | Python | Autonomous agent services framework (Autonolas). |
 | [GAME](https://github.com/game-by-virtuals/game-python) | 102 | Python | Virtuals Protocol SDK for AI game agents. |
 | [Sentience](https://github.com/galadriel-ai/Sentience) | 64 | TypeScript | Verifiable on-chain AI agents by Galadriel. ⚠️ |
 
