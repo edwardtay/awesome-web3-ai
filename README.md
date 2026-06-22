@@ -36,7 +36,7 @@
 | [Sendai](https://github.com/sendaifun/solana-agent-kit) | 2k | TypeScript | Solana-native agent toolkit. |
 | [FetchAI uAgents](https://github.com/fetchai/uAgents) | 2k | Python | Lightweight autonomous agent framework by Fetch.ai. |
 | [AgentKit](https://github.com/coinbase/agentkit) | 1k | Python | Coinbase toolkit for on-chain AI agents. |
-| [GOAT](https://github.com/goat-sdk/goat) | 996 | TypeScript | Connect AI agents to any on-chain tool. |
+| [GOAT](https://github.com/goat-sdk/goat) | 1k | TypeScript | Connect AI agents to any on-chain tool. |
 | [Heurist](https://github.com/heurist-network/heurist-agent-framework) | 817 | Python | Agent framework for AI model hosting and inference. |
 | [Daydreams](https://github.com/daydreamsai/daydreams) | 608 | TypeScript | Agent framework for on-chain games and autonomous worlds. |
 | [ZerePy](https://github.com/blorm-network/ZerePy) | 580 | Python | Python framework for deploying crypto AI agents. ⚠️ |
