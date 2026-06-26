@@ -101,6 +101,7 @@ Alternatives to centralized cloud for AI training and inference.
 | [Oort](https://github.com/oort-tech) | $OORT | Data cloud with verifiable provenance. |
 | [Arweave](https://github.com/arweaveteam) | $AR | Permanent storage for AI training data and model weights. |
 | [Story Protocol](https://github.com/storyprotocol) | $IP | Programmable IP — register and license AI training data on-chain. |
+| [Suede Labs AI](https://github.com/Suede-AI) | $SUEDE | Creator ownership infrastructure for AI media — proof of creation, programmable IP, royalty routing, and x402/ACP agent commerce on Base & Solana. Commercial. |
 | [Worldcoin](https://github.com/worldcoin) | $WLD | Proof-of-personhood for AI-era sybil resistance. |
 | [Covalent](https://github.com/covalenthq) | $CXT | Blockchain data API for AI agents. |
 | [Beldex](https://github.com/Beldex-Coin) | $BDX | Privacy ecosystem — AI chat and VPN. |
