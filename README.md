@@ -43,6 +43,7 @@
 | [Open Autonomy](https://github.com/valory-xyz/open-autonomy) | 123 | Python | Autonomous agent services framework (Autonolas). |
 | [GAME](https://github.com/game-by-virtuals/game-python) | 102 | Python | Virtuals Protocol SDK for AI game agents. |
 | [Sentience](https://github.com/galadriel-ai/Sentience) | 64 | TypeScript | Verifiable on-chain AI agents by Galadriel. ⚠️ |
+| [AgentsCoin](https://github.com/axiosdevs/agentscoin-mcp) | 1 | JavaScript | EVM chain and toolkit (MCP, Python SDK, AgentKit, n8n, ElizaOS) letting agents create a wallet, mine AGENT, send, and trade tokens. |
 
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
 
