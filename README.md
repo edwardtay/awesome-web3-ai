@@ -115,6 +115,7 @@ Alternatives to centralized cloud for AI training and inference.
 | [DefAI Framework](https://www.degents.ai/defai-framework) | Degents framework for DeFi automation. |
 | [Hey Anon](https://www.heyanon.ai/) | Chat to execute DeFi strategies. |
 | [Griffain](https://griffain.com/) | Natural language trading on Solana. |
+| [SpraayBatch](https://github.com/plagtech/SpraayBatch) | Batch USDC payments on Base for AI agents. Up to 200 recipients per atomic tx, gasless via CDP Paymaster, non-custodial auto-wallets, per-agent budget caps. OpenClaw plugin. |
 
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
 
