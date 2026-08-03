@@ -155,6 +155,7 @@ The "coprocessor" approach — verifiable AI model execution on-chain.
 
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
 
+| [LoneStarOracle](https://lonestaroracle.xyz) | 39 x402-native AI data services on Base: token forensics, smart contract audits, on-chain whale tracking, commodity signals, weather consensus, DeFi risk, stablecoin monitoring, and more. $0.02-$2.00 USDC/call. MCP: mcp.lonestaroracle.xyz. |
 ## 🔗 Related Awesome Lists
 
 | List | Description |
