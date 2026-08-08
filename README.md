@@ -55,6 +55,7 @@ Platforms and protocols for creating, coordinating, and distributing AI agents.
 | [Virtuals Protocol](https://github.com/Virtual-Protocol) | $VIRTUAL | Agent launchpad on Base — co-own and trade agents. |
 | [ElizaOS](https://github.com/elizaOS) | $AI16Z | Open-source ecosystem for building and operating AI agents. |
 | [Freysa](https://framework.freysa.ai/overview) | $FAI | Verifiable reasoning and trust mechanisms. |
+| [PayanAgent](https://github.com/derNif/payanagent) | - | Agent marketplace and API for discovering, hiring, and settling agent services with x402. |
 | [Morpheus](https://github.com/MorpheusAIs/Morpheus) | $MOR | Network for personal AI agents. ⚠️ |
 
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
