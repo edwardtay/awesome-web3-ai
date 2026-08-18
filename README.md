@@ -149,7 +149,7 @@ The "coprocessor" approach — verifiable AI model execution on-chain.
 | [CoinGecko AI Category](https://coingecko.com/en/categories/artificial-intelligence) | AI token prices and market cap rankings. |
 | [CoinMarketCap AI](https://coinmarketcap.com/view/ai-big-data/) | AI & Big Data token listings. |
 | [Cookie.fun](https://cookie.fun) | AI agent mindshare and engagement tracking. |
-| [Formo](https://formo.so) | Product and onchain analytics for Web3 apps with a read-only MCP interface for KPIs, SQL, funnels, retention, revenue, and wallet profiles. |
+| [Formo](https://formo.so) | Commercial SaaS for product and onchain analytics, with a read-only MCP interface for KPIs, SQL, funnels, retention, revenue, and wallet profiles. |
 | [GoatIndex](https://goatindex.ai/) | AI agent performance rankings. |
 | [Kaito AI](https://yaps.kaito.ai/crypto-ai) | Crypto narrative and intelligence tracking. |
 | [SentientMarket](https://sentient.market) | AI agent directory. |
