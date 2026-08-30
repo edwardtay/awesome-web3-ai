@@ -153,6 +153,7 @@ The "coprocessor" approach — verifiable AI model execution on-chain.
 | [Kaito AI](https://yaps.kaito.ai/crypto-ai) | Crypto narrative and intelligence tracking. |
 | [SentientMarket](https://sentient.market) | AI agent directory. |
 
+| [XHuntr](https://xhuntr.com) | X (Twitter) community monitoring for Solana alpha — fires Telegram alerts when tracked KOLs create/join communities or post CAs inside communities, 24-48h before on-chain data. |
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
 
 ## 🔗 Related Awesome Lists
