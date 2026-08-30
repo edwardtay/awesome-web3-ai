@@ -152,6 +152,7 @@ The "coprocessor" approach — verifiable AI model execution on-chain.
 | [GoatIndex](https://goatindex.ai/) | AI agent performance rankings. |
 | [Kaito AI](https://yaps.kaito.ai/crypto-ai) | Crypto narrative and intelligence tracking. |
 | [SentientMarket](https://sentient.market) | AI agent directory. |
+| [Chartscout](https://Chartscout.io) | AI Chart Patterns. |
 
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
 
