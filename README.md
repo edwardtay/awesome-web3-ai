@@ -37,10 +37,10 @@
 | [FetchAI uAgents](https://github.com/fetchai/uAgents) | 2k | Python | Lightweight autonomous agent framework by Fetch.ai. |
 | [AgentKit](https://github.com/coinbase/agentkit) | 1k | Python | Coinbase toolkit for on-chain AI agents. |
 | [GOAT](https://github.com/goat-sdk/goat) | 1k | TypeScript | Connect AI agents to any on-chain tool. |
-| [Heurist](https://github.com/heurist-network/heurist-agent-framework) | 820 | Python | Agent framework for AI model hosting and inference. |
-| [Aeon](https://github.com/aeonfun/aeon) | 666 | TypeScript | Autonomous agent framework that runs entirely on GitHub Actions; cron-scheduled skills deploy Uniswap v4 hooks and settle x402 payments on Base. |
-| [Daydreams](https://github.com/daydreamsai/daydreams) | 614 | TypeScript | Agent framework for on-chain games and autonomous worlds. |
-| [ZerePy](https://github.com/blorm-network/ZerePy) | 577 | Python | Python framework for deploying crypto AI agents. ⚠️ |
+| [Heurist](https://github.com/heurist-network/heurist-agent-framework) | 821 | Python | Agent framework for AI model hosting and inference. |
+| [Aeon](https://github.com/aeonfun/aeon) | 708 | TypeScript | Autonomous agent framework that runs entirely on GitHub Actions; cron-scheduled skills deploy Uniswap v4 hooks and settle x402 payments on Base. |
+| [Daydreams](https://github.com/daydreamsai/daydreams) | 616 | TypeScript | Agent framework for on-chain games and autonomous worlds. |
+| [ZerePy](https://github.com/blorm-network/ZerePy) | 576 | Python | Python framework for deploying crypto AI agents. ⚠️ |
 | [Open Autonomy](https://github.com/valory-xyz/open-autonomy) | 126 | Python | Autonomous agent services framework (Autonolas). |
 | [GAME](https://github.com/game-by-virtuals/game-python) | 100 | Python | Virtuals Protocol SDK for AI game agents. |
 | [Sentience](https://github.com/galadriel-ai/Sentience) | 67 | TypeScript | Verifiable on-chain AI agents by Galadriel. ⚠️ |
