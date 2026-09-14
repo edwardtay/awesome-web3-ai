@@ -146,6 +146,7 @@ The "coprocessor" approach — verifiable AI model execution on-chain.
 
 | Tool | Description |
 |------|-------------|
+| [0xArchive](https://0xarchive.io/) | Commercial market-data platform for real-time and historical Hyperliquid and Lighter data via REST, WebSocket, and read-only MCP; permanent free tier available. |
 | [CoinGecko AI Category](https://coingecko.com/en/categories/artificial-intelligence) | AI token prices and market cap rankings. |
 | [CoinMarketCap AI](https://coinmarketcap.com/view/ai-big-data/) | AI & Big Data token listings. |
 | [Cookie.fun](https://cookie.fun) | AI agent mindshare and engagement tracking. |
