@@ -152,7 +152,7 @@ The "coprocessor" approach — verifiable AI model execution on-chain.
 | [GoatIndex](https://goatindex.ai/) | AI agent performance rankings. |
 | [Kaito AI](https://yaps.kaito.ai/crypto-ai) | Crypto narrative and intelligence tracking. |
 | [SentientMarket](https://sentient.market) | AI agent directory. |
-- [HostDeFi](https://hostdefi.com/scan) - Free A+–F token-safety scanner across Solana and 8 EVM chains (mint/freeze authority, liquidity depth, holder concentration). Keyless REST API.
+- [HostDeFi](https://hostdefi.com/scan) - Free A+–F token-safety scanner across Solana and 7 EVM chains (mint/freeze authority, liquidity depth, holder concentration). Keyless REST API.
 
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
 
