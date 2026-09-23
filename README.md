@@ -115,6 +115,7 @@ Alternatives to centralized cloud for AI training and inference.
 | [DefAI Framework](https://www.degents.ai/defai-framework) | Degents framework for DeFi automation. |
 | [Hey Anon](https://www.heyanon.ai/) | Chat to execute DeFi strategies. |
 | [Griffain](https://griffain.com/) | Natural language trading on Solana. |
+| [MetaMask Agent Wallet](https://github.com/MetaMask/agent-skills) | Self-custodial agent wallet CLI and skills — swaps, bridges, perps, prediction markets, yield, and x402 payments with threat scanning and MEV protection. |
 
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
 
