@@ -29,7 +29,7 @@
 
 | Tool | Stars | Language | Description |
 |------|-------|----------|-------------|
-| [Eliza](https://github.com/elizaOS/eliza) | 19k | TypeScript | Multi-agent framework with social, messaging, and on-chain integrations. |
+| [Eliza](https://github.com/elizaOS/eliza) | 20k | TypeScript | Multi-agent framework with social, messaging, and on-chain integrations. |
 | [IntentKit](https://github.com/crestalnetwork/intentkit) | 7k | Python | Autonomous agents with on-chain intent execution. |
 | [Rig](https://github.com/0xPlaygrounds/rig) | 9k | Rust | LLM agent framework for Web3. |
 | [Swarms](https://github.com/kyegomez/swarms) | 7k | Python | Multi-agent orchestration with Web3 integrations. |
@@ -37,11 +37,11 @@
 | [FetchAI uAgents](https://github.com/fetchai/uAgents) | 2k | Python | Lightweight autonomous agent framework by Fetch.ai. |
 | [AgentKit](https://github.com/coinbase/agentkit) | 1k | Python | Coinbase toolkit for on-chain AI agents. |
 | [GOAT](https://github.com/goat-sdk/goat) | 1k | TypeScript | Connect AI agents to any on-chain tool. |
-| [Heurist](https://github.com/heurist-network/heurist-agent-framework) | 826 | Python | Agent framework for AI model hosting and inference. |
-| [Daydreams](https://github.com/daydreamsai/daydreams) | 619 | TypeScript | Agent framework for on-chain games and autonomous worlds. |
-| [ZerePy](https://github.com/blorm-network/ZerePy) | 577 | Python | Python framework for deploying crypto AI agents. ⚠️ |
+| [Heurist](https://github.com/heurist-network/heurist-agent-framework) | 827 | Python | Agent framework for AI model hosting and inference. |
+| [Daydreams](https://github.com/daydreamsai/daydreams) | 620 | TypeScript | Agent framework for on-chain games and autonomous worlds. |
+| [ZerePy](https://github.com/blorm-network/ZerePy) | 576 | Python | Python framework for deploying crypto AI agents. ⚠️ |
 | [Open Autonomy](https://github.com/valory-xyz/open-autonomy) | 128 | Python | Autonomous agent services framework (Autonolas). |
-| [GAME](https://github.com/game-by-virtuals/game-python) | 100 | Python | Virtuals Protocol SDK for AI game agents. |
+| [GAME](https://github.com/game-by-virtuals/game-python) | 99 | Python | Virtuals Protocol SDK for AI game agents. |
 | [Sentience](https://github.com/galadriel-ai/Sentience) | 68 | TypeScript | Verifiable on-chain AI agents by Galadriel. ⚠️ |
 
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
