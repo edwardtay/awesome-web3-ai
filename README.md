@@ -115,6 +115,7 @@ Alternatives to centralized cloud for AI training and inference.
 | [DefAI Framework](https://www.degents.ai/defai-framework) | Degents framework for DeFi automation. |
 | [Hey Anon](https://www.heyanon.ai/) | Chat to execute DeFi strategies. |
 | [Griffain](https://griffain.com/) | Natural language trading on Solana. |
+| [fly.ai](https://www.flyaiworld.com) | A simulated fruit-fly connectome (166,700 neurons, [open source](https://github.com/alextitonis/fly.ai), Python, MIT) trading tokens on Robinhood Chain from per-NFT wallets. |
 
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
 
