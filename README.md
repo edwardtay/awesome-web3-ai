@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner.webp" alt="Awesome Web3 x AI: agent frameworks, on-chain inference, decentralised compute, data networks and DeFi AI tools" width="100%"></p>
+![Awesome Web3 x AI: agent frameworks, on-chain inference, decentralised compute, data networks and DeFi AI tools](assets/banner.webp)
 
 # Awesome Web3 AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
