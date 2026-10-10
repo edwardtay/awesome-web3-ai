@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.webp" alt="Awesome Web3 x AI: agent frameworks, on-chain inference, decentralised compute, data networks and DeFi AI tools" width="100%"></p>
+
 # Awesome Web3 AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![Stars](https://img.shields.io/github/actions/workflow/status/edwardtay/awesome-web3-ai/update-stars.yml?label=star%20updates)](https://github.com/edwardtay/awesome-web3-ai/actions/workflows/update-stars.yml)
