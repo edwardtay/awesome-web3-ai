@@ -41,7 +41,7 @@
 | [Daydreams](https://github.com/daydreamsai/daydreams) | 619 | TypeScript | Agent framework for on-chain games and autonomous worlds. |
 | [ZerePy](https://github.com/blorm-network/ZerePy) | 576 | Python | Python framework for deploying crypto AI agents. ⚠️ |
 | [Open Autonomy](https://github.com/valory-xyz/open-autonomy) | 129 | Python | Autonomous agent services framework (Autonolas). |
-| [GAME](https://github.com/game-by-virtuals/game-python) | 100 | Python | Virtuals Protocol SDK for AI game agents. |
+| [GAME](https://github.com/game-by-virtuals/game-python) | 100 | Python | Virtuals Protocol SDK for AI game agents. ⚠️ |
 | [Sentience](https://github.com/galadriel-ai/Sentience) | 68 | TypeScript | Verifiable on-chain AI agents by Galadriel. ⚠️ |
 
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
@@ -52,7 +52,7 @@ Platforms and protocols for creating, coordinating, and distributing AI agents.
 
 | Protocol | Token | Description |
 |----------|-------|-------------|
-| [Virtuals Protocol](https://github.com/Virtual-Protocol) | $VIRTUAL | Agent launchpad on Base — co-own and trade agents. |
+| [Virtuals Protocol](https://github.com/Virtual-Protocol) | $VIRTUAL | Agent launchpad on Base, co-own and trade agents. |
 | [ElizaOS](https://github.com/elizaOS) | $AI16Z | Open-source ecosystem for building and operating AI agents. |
 | [Freysa](https://framework.freysa.ai/overview) | $FAI | Verifiable reasoning and trust mechanisms. |
 | [Morpheus](https://github.com/MorpheusAIs/Morpheus) | $MOR | Network for personal AI agents. ⚠️ |
@@ -86,7 +86,7 @@ Alternatives to centralized cloud for AI training and inference.
 | [Autonolas (OLAS)](https://github.com/valory-xyz) | $OLAS | Co-owned autonomous agent services. |
 | [Allora Network](https://github.com/allora-network) | $ALLO | Self-improving ML models for inference. |
 | [Cortex](https://github.com/CortexFoundation) | $CTXC | On-chain machine learning execution. |
-| [Numerai](https://github.com/numerai) | $NMR | Hedge fund — data scientists build models on encrypted data. |
+| [Numerai](https://github.com/numerai) | $NMR | Hedge fund, data scientists build models on encrypted data. |
 | [ChainGPT](https://github.com/ChainGPT-org) | $CGPT | Smart contract generator, NFT tools. ⚠️ |
 
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
@@ -100,10 +100,10 @@ Alternatives to centralized cloud for AI training and inference.
 | [Phala Network](https://github.com/Phala-Network) | $PHA | TEE-based confidential computing for AI inference. |
 | [Oort](https://github.com/oort-tech) | $OORT | Data cloud with verifiable provenance. |
 | [Arweave](https://github.com/arweaveteam) | $AR | Permanent storage for AI training data and model weights. |
-| [Story Protocol](https://github.com/storyprotocol) | $IP | Programmable IP — register and license AI training data on-chain. |
+| [Story Protocol](https://github.com/storyprotocol) | $IP | Programmable IP, register and license AI training data on-chain. |
 | [Worldcoin](https://github.com/worldcoin) | $WLD | Proof-of-personhood for AI-era sybil resistance. |
 | [Covalent](https://github.com/covalenthq) | $CXT | Blockchain data API for AI agents. |
-| [Beldex](https://github.com/Beldex-Coin) | $BDX | Privacy ecosystem — AI chat and VPN. |
+| [Beldex](https://github.com/Beldex-Coin) | $BDX | Privacy ecosystem, AI chat and VPN. |
 
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
 
@@ -120,7 +120,7 @@ Alternatives to centralized cloud for AI training and inference.
 
 ## ⛓️ On-Chain AI Inference
 
-The "coprocessor" approach — verifiable AI model execution on-chain.
+The "coprocessor" approach: verifiable AI model execution on-chain.
 
 | Protocol | Token | Description |
 |----------|-------|-------------|
@@ -162,6 +162,7 @@ The "coprocessor" approach — verifiable AI model execution on-chain.
 | [awesome-ai](https://github.com/edwardtay/awesome-ai) | AI APIs, tools, frameworks, platforms, and learning resources. |
 | [awesome-scrapers](https://github.com/edwardtay/awesome-scrapers) | Scrapers, crawlers, and data extraction tools. |
 | [awesome-robotics](https://github.com/edwardtay/awesome-robotics) | Robotics frameworks, simulators, and platforms. |
+| [awesome-OSINT](https://github.com/edwardtay/awesome-OSINT) | OSINT tools: people search, domains, social media, geolocation, breach data. |
 
 ## Contributing
 
