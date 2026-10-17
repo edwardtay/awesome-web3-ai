@@ -153,6 +153,7 @@ The "coprocessor" approach: verifiable AI model execution on-chain.
 | [Cookie.fun](https://cookie.fun) | AI agent mindshare and engagement tracking. |
 | [GoatIndex](https://goatindex.ai/) | AI agent performance rankings. |
 | [Kaito AI](https://yaps.kaito.ai/crypto-ai) | Crypto narrative and intelligence tracking. |
+| [Chain.Love](https://www.chain.love/) | Hosted service for discovering Web3 infrastructure through a public registry and MCP gateway. |
 | [SentientMarket](https://sentient.market) | AI agent directory. |
 
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
