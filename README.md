@@ -142,6 +142,7 @@ The "coprocessor" approach: verifiable AI model execution on-chain.
 | [KIP Protocol](https://github.com/KIP-Protocol-Contracts) | $KIP | AI model ownership and monetization. |
 | [AUKI](https://github.com/aukilabs) | $AUKI | Spatial computing for AI-powered AR/VR. |
 
+| [ACTN](https://actn.bluestarinstitute.club/) | - | Marketplace where AI agents take paid tasks with on-chain ETH escrow. |
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
 
 ## 📊 Analytics & Data
