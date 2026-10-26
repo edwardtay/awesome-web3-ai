@@ -39,11 +39,11 @@
 | [FetchAI uAgents](https://github.com/fetchai/uAgents) | 2k | Python | Lightweight autonomous agent framework by Fetch.ai. |
 | [AgentKit](https://github.com/coinbase/agentkit) | 1k | Python | Coinbase toolkit for on-chain AI agents. |
 | [GOAT](https://github.com/goat-sdk/goat) | 1k | TypeScript | Connect AI agents to any on-chain tool. |
-| [Heurist](https://github.com/heurist-network/heurist-agent-framework) | 828 | Python | Agent framework for AI model hosting and inference. |
-| [Daydreams](https://github.com/daydreamsai/daydreams) | 621 | TypeScript | Agent framework for on-chain games and autonomous worlds. |
-| [ZerePy](https://github.com/blorm-network/ZerePy) | 575 | Python | Python framework for deploying crypto AI agents. ⚠️ |
+| [Heurist](https://github.com/heurist-network/heurist-agent-framework) | 826 | Python | Agent framework for AI model hosting and inference. |
+| [Daydreams](https://github.com/daydreamsai/daydreams) | 623 | TypeScript | Agent framework for on-chain games and autonomous worlds. |
+| [ZerePy](https://github.com/blorm-network/ZerePy) | 576 | Python | Python framework for deploying crypto AI agents. ⚠️ |
 | [Open Autonomy](https://github.com/valory-xyz/open-autonomy) | 130 | Python | Autonomous agent services framework (Autonolas). |
-| [GAME](https://github.com/game-by-virtuals/game-python) | 100 | Python | Virtuals Protocol SDK for AI game agents. ⚠️ |
+| [GAME](https://github.com/game-by-virtuals/game-python) | 101 | Python | Virtuals Protocol SDK for AI game agents. ⚠️ |
 | [Sentience](https://github.com/galadriel-ai/Sentience) | 68 | TypeScript | Verifiable on-chain AI agents by Galadriel. ⚠️ |
 
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
