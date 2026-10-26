@@ -117,6 +117,7 @@ Alternatives to centralized cloud for AI training and inference.
 | [DefAI Framework](https://www.degents.ai/defai-framework) | Degents framework for DeFi automation. |
 | [Hey Anon](https://www.heyanon.ai/) | Chat to execute DeFi strategies. |
 | [Griffain](https://griffain.com/) | Natural language trading on Solana. |
+| [Bankr](https://bankr.bot/terminal?refCode=5FCNDYRH-BNKR) | AI agent that trades, swaps, and launches tokens from chat or X across Base, Solana, and other chains. |
 
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
 
@@ -154,6 +155,7 @@ The "coprocessor" approach: verifiable AI model execution on-chain.
 | [GoatIndex](https://goatindex.ai/) | AI agent performance rankings. |
 | [Kaito AI](https://yaps.kaito.ai/crypto-ai) | Crypto narrative and intelligence tracking. |
 | [SentientMarket](https://sentient.market) | AI agent directory. |
+| [Elfa AI](https://app.elfa.ai/register?referralCode=MJTR1J-KJ) | Social intelligence for crypto: trending tokens, smart-account mentions, and narrative signals via app and API. |
 
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
 
@@ -174,3 +176,5 @@ Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md
 - Include star count and language where applicable
 - Note if a tool is unmaintained (last commit >1 year ago)
 - Commercial tools/services are fine but must be clearly labeled
+
+<sub>Some links are referral links.</sub>
