@@ -154,6 +154,7 @@ The "coprocessor" approach: verifiable AI model execution on-chain.
 | [Cookie.fun](https://cookie.fun) | AI agent mindshare and engagement tracking. |
 | [GoatIndex](https://goatindex.ai/) | AI agent performance rankings. |
 | [Kaito AI](https://yaps.kaito.ai/crypto-ai) | Crypto narrative and intelligence tracking. |
+| [IOTA Watch](https://iotahome.site/en/app) | MIT-licensed read-only activity, training and reward monitor for Macrocosmos IOTA Train at Home; project-specific upstream coverage. |
 | [SentientMarket](https://sentient.market) | AI agent directory. |
 | [Elfa AI](https://app.elfa.ai/register?referralCode=MJTR1J-KJ) | Social intelligence for crypto: trending tokens, smart-account mentions, and narrative signals via app and API. |
 
