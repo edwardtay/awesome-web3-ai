@@ -118,6 +118,7 @@ Alternatives to centralized cloud for AI training and inference.
 | [Hey Anon](https://www.heyanon.ai/) | Chat to execute DeFi strategies. |
 | [Griffain](https://griffain.com/) | Natural language trading on Solana. |
 | [Bankr](https://bankr.bot/terminal?refCode=5FCNDYRH-BNKR) | AI agent that trades, swaps, and launches tokens from chat or X across Base, Solana, and other chains. |
+| [Trnch](https://trnch.fun) | Remote MCP and bot API for agents trading Robinhood Chain memecoins: keyless rug check, new-token feed, best DEX route. |
 
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
 
