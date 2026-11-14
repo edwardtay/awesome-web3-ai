@@ -39,6 +39,7 @@
 | [FetchAI uAgents](https://github.com/fetchai/uAgents) | 2k | Python | Lightweight autonomous agent framework by Fetch.ai. |
 | [AgentKit](https://github.com/coinbase/agentkit) | 1k | Python | Coinbase toolkit for on-chain AI agents. |
 | [GOAT](https://github.com/goat-sdk/goat) | 1k | TypeScript | Connect AI agents to any on-chain tool. |
+| [Hashgraph Online (HOL)](https://github.com/hashgraph-online/standards-sdk) | 1k | TypeScript | Universal agent registry with UAIDs, peer-to-peer messaging and bridges to A2A and ERC-8004. |
 | [Heurist](https://github.com/heurist-network/heurist-agent-framework) | 828 | Python | Agent framework for AI model hosting and inference. |
 | [Daydreams](https://github.com/daydreamsai/daydreams) | 624 | TypeScript | Agent framework for on-chain games and autonomous worlds. |
 | [ZerePy](https://github.com/blorm-network/ZerePy) | 576 | Python | Python framework for deploying crypto AI agents. ⚠️ |
@@ -117,6 +118,7 @@ Alternatives to centralized cloud for AI training and inference.
 | [DefAI Framework](https://www.degents.ai/defai-framework) | Degents framework for DeFi automation. |
 | [Hey Anon](https://www.heyanon.ai/) | Chat to execute DeFi strategies. |
 | [Griffain](https://griffain.com/) | Natural language trading on Solana. |
+| [MetaMask Agent Wallet](https://github.com/MetaMask/agent-skills) | Self-custodial agent wallet CLI and skills from MetaMask: swaps, bridges, perps, prediction markets, yield and x402 payments, with threat scanning and MEV protection. |
 | [Bankr](https://bankr.bot/terminal?refCode=5FCNDYRH-BNKR) | AI agent that trades, swaps, and launches tokens from chat or X across Base, Solana, and other chains. |
 
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
